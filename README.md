@@ -21,7 +21,7 @@ Swift based photo gallery demo application that will fetch ``json`` data from re
 + SwiftyJSON (for json data parsing)
 
 ## Supported Device
-iPhone 4s, 5, 5s, 5c, 6, 6 Plus, 6s, 6s Plus, all iPad having iOS 8.4, iOS 9
+iPhone 4s, 5, 5s, 5c, 6, 6 Plus, 6s, 6s Plus, all iPad having iOS 9
 
 ## Technology used
 + Colletion view controller ``UICollectionView``.
